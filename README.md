@@ -46,7 +46,8 @@ This is a web application built with **Streamlit** to detect fake news headlines
 
 ## Install dependencies:
 
-pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
 
 
 ## About
