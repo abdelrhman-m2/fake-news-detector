@@ -43,6 +43,8 @@ This is a web application built with **Streamlit** to detect fake news headlines
 
 - Fake_News_Model.ipynb — Model
 
+- model_data.py — This contains the files of the files  Pretrained Logistic Regression model and Pretrained TF-IDF vectorizer.
+
 
 ## Install dependencies:
 1. Clone the repo:
