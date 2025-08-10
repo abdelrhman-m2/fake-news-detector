@@ -45,10 +45,10 @@ This is a web application built with **Streamlit** to detect fake news headlines
 
 
 ## Install dependencies:
-
-```bash
+1. Clone the repo:
+   ```bash
    pip install -r requirements.txt
 
-
 ## About
+
 This project helps detect fake news using a machine learning approach to support media literacy and combat misinformation.
